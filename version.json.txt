@@ -1,0 +1,6 @@
+{
+    "versionCode": 2,
+    "versionName": "1.1",
+    "updateMessage": "Обновление v1.1\n\n• Добавлен экран «О приложении»\n• Добавлена проверка обновлений\n• Исправлены отступы в КП",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1ojzyNVqGtQ9cwydsgasSAdVVw1VsdZwq"
+}
